@@ -15,7 +15,7 @@ __pycache__/
 
 models/
 backend/results/results/
-*.mp4
+
 
 
 # Node.js / React (assuming your frontend is in a 'frontend' folder)
