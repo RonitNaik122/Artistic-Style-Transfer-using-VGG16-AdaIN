@@ -167,13 +167,16 @@ Returns the styled image or video.
 
 > Add your styled image and video outputs here:
 
-| Geometric Style Image               | Geometric Painting Output                     |
-| ---------------------------- | ----------------------------------- |
-| ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/geometric_painting-output.jpg) | ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/geometric_painting-003d26cc-fbe7-4a87-8665-102317088772.mp4) |
+| Styled Video Output |
+| ---------------------------- |
 
-| Oil Painting Output               | Van Gogh Painting                           |
-| ---------------------------------- | -------------------------------------- |
-| ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/oil_painting-823b5684-366a-41fe-9948-f803eb641fcc.mp4) | ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/van_gogh-e1612ffc-1d74-4553-a5b4-23791168befe.mp4) |
+https://github.com/user-attachments/assets/04d452bd-513d-4405-b162-0531a8010195
+
+
+https://github.com/user-attachments/assets/dd11dd69-e482-47b0-9be7-84c3db742ae3
+
+
+https://github.com/user-attachments/assets/6c15c0ae-69fa-4925-ad11-d940ab9ce4bd
 
 ---
 
