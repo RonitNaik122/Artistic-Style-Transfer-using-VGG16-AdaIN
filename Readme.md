@@ -165,25 +165,15 @@ Returns the styled image or video.
 
 ## 📷 Example Results
 
-### 🟦 Geometric Painting
+> Add your styled image and video outputs here:
 
-| Input Image                         | Stylized Output                      |
-| ----------------------------------- | ------------------------------------ |
-| ![](./examples/input_geometric.jpg) | ![](./examples/output_geometric.jpg) |
+| Geometric Style Image               | Geometric Painting Output                     |
+| ---------------------------- | ----------------------------------- |
+| ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/geometric_painting-output.jpg) | ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/geometric_painting-003d26cc-fbe7-4a87-8665-102317088772.mp4) |
 
-### 🟨 Oil Painting
-
-| Input Frame                   | Stylized Frame                 |
-| ----------------------------- | ------------------------------ |
-| ![](./examples/input_oil.jpg) | ![](./examples/output_oil.jpg) |
-
-### 🟩 Van Gogh Style
-
-| Input Frame                       | Stylized Frame                     |
-| --------------------------------- | ---------------------------------- |
-| ![](./examples/input_vangogh.jpg) | ![](./examples/output_vangogh.jpg) |
-
-Feel free to add more sample outputs in the `/examples/` directory and reference them here.
+| Oil Painting Output               | Van Gogh Painting                           |
+| ---------------------------------- | -------------------------------------- |
+| ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/oil_painting-823b5684-366a-41fe-9948-f803eb641fcc.mp4) | ![](https://github.com/RonitNaik122/Artistic-Style-Transfer-using-VGG16-AdaIN/blob/35b217c5c92b684e36c270c0a261179d765e7746/backend/output/van_gogh-e1612ffc-1d74-4553-a5b4-23791168befe.mp4) |
 
 ---
 
