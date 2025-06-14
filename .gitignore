@@ -1,0 +1,34 @@
+# Python virtual environment
+backend/venv/
+
+# PyTorch specific large files that might accidentally be tracked if not in venv
+# (Though generally, if venv is ignored, these are fine)
+# For example, if you trained and saved huge models directly in the root:
+# *.pt
+# *.pth
+
+# Other common Python ignore patterns
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+models/
+backend/results/results/
+*.mp4
+
+
+# Node.js / React (assuming your frontend is in a 'frontend' folder)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
