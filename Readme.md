@@ -165,15 +165,25 @@ Returns the styled image or video.
 
 ## 📷 Example Results
 
-> Add your styled image and video outputs here:
+### 🟦 Geometric Painting
 
-| Original Image               | Styled Output                       |
-| ---------------------------- | ----------------------------------- |
-| ![](./examples/original.jpg) | ![](./examples/van_gogh_output.jpg) |
+| Input Image                         | Stylized Output                      |
+| ----------------------------------- | ------------------------------------ |
+| ![](./examples/input_geometric.jpg) | ![](./examples/output_geometric.jpg) |
 
-| Original Video Frame               | Styled Frame                           |
-| ---------------------------------- | -------------------------------------- |
-| ![](./examples/original_frame.png) | ![](./examples/oil_painting_frame.png) |
+### 🟨 Oil Painting
+
+| Input Frame                   | Stylized Frame                 |
+| ----------------------------- | ------------------------------ |
+| ![](./examples/input_oil.jpg) | ![](./examples/output_oil.jpg) |
+
+### 🟩 Van Gogh Style
+
+| Input Frame                       | Stylized Frame                     |
+| --------------------------------- | ---------------------------------- |
+| ![](./examples/input_vangogh.jpg) | ![](./examples/output_vangogh.jpg) |
+
+Feel free to add more sample outputs in the `/examples/` directory and reference them here.
 
 ---
 
